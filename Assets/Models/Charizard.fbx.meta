@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: c82dfcfa4df597f4e84c2ed9b7b1cd9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cadera
+    100002: //RootNode
+    100004: Charizard
+    100006: Cinema_4D_Editor
+    100008: Cola
+    100010: DerAla
+    100012: EndHead
+    100014: EndJaw
+    100016: EndLFeeler6
+    100018: EndLFingerA2
+    100020: EndLFingerB2
+    100022: EndLFingerC2
+    100024: EndLFoot
+    100026: EndLToe
+    100028: EndRFeeler6
+    100030: EndRFingerA2
+    100032: EndRFingerB2
+    100034: EndRFingerC2
+    100036: EndRFoot
+    100038: EndRToe
+    100040: EndTail7
+    100042: EndTailA04
+    100044: EndTongue
+    100046: FinCadera
+    100048: Head
+    100050: IzqAla
+    100052: Jaw
+    100054: LArm
+    100056: LFeeler2
+    100058: LFeeler3
+    100060: LFeeler4
+    100062: LFeeler5
+    100064: LFeeler6
+    100066: LFingerA1
+    100068: LFingerA2
+    100070: LFingerB1
+    100072: LFingerB2
+    100074: LFingerC1
+    100076: LFingerC2
+    100078: LFoot
+    100080: LForeArm
+    100082: LHand
+    100084: LLeg
+    100086: LPierna
+    100088: LShoulder
+    100090: LToe
+    100092: Neck1
+    100094: Neck2
+    100096: Neck3
+    100098: Origin
+    100100: Pecho
+    100102: pm0006_00
+    100104: pm0006_00_BodySkin
+    100106: pm0006_00_FireAStenSkin
+    100108: pm0006_00_FireCore1Skin
+    100110: pm0006_00_FireCore2Skin
+    100112: pm0006_00_FireCore3Skin
+    100114: RArm
+    100116: RFeeler2
+    100118: RFeeler3
+    100120: RFeeler4
+    100122: RFeeler5
+    100124: RFeeler6
+    100126: RFingerA1
+    100128: RFingerA2
+    100130: RFingerB1
+    100132: RFingerB2
+    100134: RFingerC1
+    100136: RFingerC2
+    100138: RFoot
+    100140: RForeArm
+    100142: RHand
+    100144: RLeg
+    100146: RPierna
+    100148: RShoulder
+    100150: RToe
+    100152: Spine1
+    100154: Tail2
+    100156: Tail3
+    100158: Tail4
+    100160: Tail5
+    100162: Tail6
+    100164: Tail7
+    100166: TailA01
+    100168: TailA02
+    100170: TailA03
+    100172: TailA04
+    100174: Tongue
+    100176: Waist
+    400000: Cadera
+    400002: Charizard
+    400004: //RootNode
+    400006: Cinema_4D_Editor
+    400008: Cola
+    400010: DerAla
+    400012: EndHead
+    400014: EndJaw
+    400016: EndLFeeler6
+    400018: EndLFingerA2
+    400020: EndLFingerB2
+    400022: EndLFingerC2
+    400024: EndLFoot
+    400026: EndLToe
+    400028: EndRFeeler6
+    400030: EndRFingerA2
+    400032: EndRFingerB2
+    400034: EndRFingerC2
+    400036: EndRFoot
+    400038: EndRToe
+    400040: EndTail7
+    400042: EndTailA04
+    400044: EndTongue
+    400046: FinCadera
+    400048: Head
+    400050: IzqAla
+    400052: Jaw
+    400054: LArm
+    400056: LFeeler2
+    400058: LFeeler3
+    400060: LFeeler4
+    400062: LFeeler5
+    400064: LFeeler6
+    400066: LFingerA1
+    400068: LFingerA2
+    400070: LFingerB1
+    400072: LFingerB2
+    400074: LFingerC1
+    400076: LFingerC2
+    400078: LFoot
+    400080: LForeArm
+    400082: LHand
+    400084: LLeg
+    400086: LPierna
+    400088: LShoulder
+    400090: LToe
+    400092: Neck1
+    400094: Neck2
+    400096: Neck3
+    400098: Origin
+    400100: Pecho
+    400102: pm0006_00
+    400104: pm0006_00_BodySkin
+    400106: pm0006_00_FireAStenSkin
+    400108: pm0006_00_FireCore1Skin
+    400110: pm0006_00_FireCore2Skin
+    400112: pm0006_00_FireCore3Skin
+    400114: RArm
+    400116: RFeeler2
+    400118: RFeeler3
+    400120: RFeeler4
+    400122: RFeeler5
+    400124: RFeeler6
+    400126: RFingerA1
+    400128: RFingerA2
+    400130: RFingerB1
+    400132: RFingerB2
+    400134: RFingerC1
+    400136: RFingerC2
+    400138: RFoot
+    400140: RForeArm
+    400142: RHand
+    400144: RLeg
+    400146: RPierna
+    400148: RShoulder
+    400150: RToe
+    400152: Spine1
+    400154: Tail2
+    400156: Tail3
+    400158: Tail4
+    400160: Tail5
+    400162: Tail6
+    400164: Tail7
+    400166: TailA01
+    400168: TailA02
+    400170: TailA03
+    400172: TailA04
+    400174: Tongue
+    400176: Waist
+    2000000: Cinema_4D_Editor
+    2100000: 'Material #12'
+    2100002: 'Material #13'
+    2100004: 'Material #14'
+    2100006: 'Material #15'
+    2100008: 'Material #16'
+    4300000: Charizard
+    7400000: CharizardVuelo
+    9500000: //RootNode
+    13700000: Charizard
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: 9fd7f2e201486f447a937973bab211c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: 93f5c34dea791184d9d327ea333162bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14'
+    second: {fileID: 2100000, guid: 376a06f18801c5846beb58aa61cbb5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {fileID: 2100000, guid: 26e4a31d52b9b81418015cd3c8d66ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: fdf21d72c37b7bf46b504c8fbffcc77d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0006_00_BodyA1
+    second: {fileID: 2800000, guid: 08c626a0a313667409c5664d16b142f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0006_00_BodyB1
+    second: {fileID: 2800000, guid: 85d0aaffd9553f542a2131ae5d169a99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0006_00_Eye1
+    second: {fileID: 2800000, guid: 365e4b326e64360428448696d48ccbf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0006_00_FireCoreA1
+    second: {fileID: 2800000, guid: 617f0873248d4a0419b0c0b45c85448e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0006_00_FireStenA1
+    second: {fileID: 2800000, guid: ad9cf12f4a4af4e4e875eafd216385af, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CharizardVuelo
+      takeName: CINEMA_4D_Principal
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
