@@ -26,7 +26,6 @@ public class GameManager : MonoBehaviour
 		
 		if (isDestroy && !_instantiated) {
 			_instantiated = true;
-			isDestroy = false;
 			StartCoroutine (SpawnBall ());
 		}
 	}
