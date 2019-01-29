@@ -7,7 +7,6 @@ public class PokeballManager : MonoBehaviour
 	public bool HasCaught = false;
 	public float finalShake;
 
-
 	void OnTriggerEnter(Collider other)
     {
 		if (other.gameObject.tag == "Pokemon") {

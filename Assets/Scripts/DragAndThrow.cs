@@ -10,8 +10,8 @@ public class DragAndThrow : MonoBehaviour {
 	public float ThrowSpeed;
 	public float ArchSpeed;
 	public float Speed;
-	[SerializeField]
-	private Camera mainCamera;
+
+	public Camera mainCamera;
 
 
 	// Use this for initialization

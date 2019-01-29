@@ -7,30 +7,30 @@ public class DestroyByTime : MonoBehaviour
     [SerializeField]
     private float lifeTime;
 
-    private DragAndThrow _dragAndThrow;
-    private PokeballManager _pokeballManager;
+	private bool _dragAndThrow;
+	private bool _hasCaughted;
 
-    void Start()
+
+
+	void Update()
     {
-        _dragAndThrow = GameObject.Find("PokeballManager").GetComponent<DragAndThrow>();
-        _pokeballManager = GameObject.Find("PokeballManager").GetComponent<PokeballManager>();
+		_dragAndThrow = this.GetComponent<DragAndThrow> ().isThrow;
+		_hasCaughted = this.GetComponent<PokeballManager> ().HasCaught;
 
-        
-    }
-    void Update()
-    {
-        if (_dragAndThrow.isThrow) {
-
+        if (_dragAndThrow) {
             StartCoroutine(Espera());
         }
     }
 
+
+
     IEnumerator Espera()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(3f);
 
-		if (!_pokeballManager.HasCaught)
+		if (!_hasCaughted)
         {
+			GameObject.Find ("GameManager").GetComponent<GameManager> ().isDestroy = true;
             Destroy(gameObject, lifeTime);
         }
     }
